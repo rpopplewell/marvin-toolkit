@@ -1,5 +1,6 @@
 use anyhow::{Context as _, Result};
 use clap::Parser;
+use rand::rngs::StdRng;
 use rsa::{pkcs8::DecodePrivateKey, Pkcs1v15Encrypt, RsaPrivateKey};
 use std::fs;
 use std::io::{Read, Write};
@@ -34,6 +35,7 @@ fn main() -> Result<()> {
         .with_context(|| format!("unable to read private key from {}", args.keyfile.display()))?;
 
     let privkey = RsaPrivateKey::from_pkcs8_pem(&pem)?;
+    let mut rng: StdRng = rand::make_rng();
 
     let mut infile = fs::OpenOptions::new()
         .read(true)
@@ -59,7 +61,7 @@ fn main() -> Result<()> {
         assert!(n == buffer.len());
 
         let now = Instant::now();
-        let _ = black_box(privkey.decrypt(Pkcs1v15Encrypt, black_box(&buffer)));
+        let _ = black_box(privkey.decrypt_blinded(&mut rng, Pkcs1v15Encrypt, black_box(&buffer)));
         writeln!(outfile, "{}", now.elapsed().as_nanos())?;
     }
 

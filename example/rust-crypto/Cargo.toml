@@ -6,4 +6,5 @@ edition = "2021"
 [dependencies]
 anyhow = "1"
 clap = { version = "4", features = ["derive"] }
-rsa = "0.9"
+rsa = { path = "../../../../RustCrypto/RSA" }
+rand = { version = "0.10", features = ["std_rng", "sys_rng"] }
