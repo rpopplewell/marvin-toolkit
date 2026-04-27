@@ -18,3 +18,5 @@ rsa2048_repeat_with_slice/*.bin
 rsa2048_repeat_with_slice/*.csv
 rsa2048_repeat_without_slice/*.bin
 rsa2048_repeat_without_slice/*.csv
+rsa2048_repeat_with_slice_ct/*.bin
+rsa2048_repeat_with_slice_ct/*.csv

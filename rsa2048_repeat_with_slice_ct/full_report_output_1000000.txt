@@ -1,0 +1,570 @@
+ ETA: 11:33:55 26-04-2026    
+[i] Confidence interval plots done in 7.55e+02s
+[i] Generating ECDF plots of differences
+[i] ECDF plots of differences done in 1.36s
+[i] Generating scatter plots of differences
+[i] scatter plots of differences done in 7.42s
+[i] Writing summary statistics of samples to file
+[i] Summary statistics of samples written to file in 0.582s
+[i] Starting calculation of individual results
+[i] Starting the box_test
+[i] box_test done in 0.52s
+[i] Starting Wilcoxon signed-rank test
+[i] Wilcoxon signed-rank test done in 2.47s
+[i] Starting two-sided sign test
+[i] Sign test for two-sided done in 0.748s
+[i] Starting less sign test
+[i] Sign test for less done in 0.765s
+[i] Starting greater sign test
+[i] Sign test for greater done in 0.743s
+[i] Starting t-test for dependent, paired samples
+[i] t-test for dependent, paired sample done in 0.621s
+[i] Calculating descriptive statistics of sample differences
+[i] Descriptive statistics of sample differences done in 1.23s
+Box test 0 vs 1: No difference
+Wilcoxon signed-rank test 0 vs 1: 0.253
+Sign test 0 vs 1: 0.488
+Sign test, probability that 1 < 0: 0.244
+Sign test, probability that 1 > 0: 0.757
+Sign test interpretation: 1 = 0
+Dependent t-test for paired samples 0 vs 1: 0.327
+0 vs 1 stats: mean: 4.14e-08, SD: 4.23e-05, median: 9e-09, IQR: 1.12e-05, MAD: 5.58e-06
+Box test 0 vs 2: No difference
+Wilcoxon signed-rank test 0 vs 2: 0.189
+Sign test 0 vs 2: 0.307
+Sign test, probability that 2 < 0: 0.154
+Sign test, probability that 2 > 0: 0.847
+Sign test interpretation: 2 = 0
+Dependent t-test for paired samples 0 vs 2: 0.344
+0 vs 2 stats: mean: 4e-08, SD: 4.23e-05, median: 1e-08, IQR: 1.12e-05, MAD: 5.58e-06
+Box test 0 vs 3: No difference
+Wilcoxon signed-rank test 0 vs 3: 0.299
+Sign test 0 vs 3: 0.784
+Sign test, probability that 3 < 0: 0.392
+Sign test, probability that 3 > 0: 0.609
+Sign test interpretation: 3 = 0
+Dependent t-test for paired samples 0 vs 3: 0.762
+0 vs 3 stats: mean: 1.27e-08, SD: 4.2e-05, median: 0.0, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 0 vs 4: No difference
+Wilcoxon signed-rank test 0 vs 4: 0.115
+Sign test 0 vs 4: 0.657
+Sign test, probability that 4 < 0: 0.328
+Sign test, probability that 4 > 0: 0.672
+Sign test interpretation: 4 = 0
+Dependent t-test for paired samples 0 vs 4: 0.268
+0 vs 4 stats: mean: 4.66e-08, SD: 4.2e-05, median: 1e-09, IQR: 1.12e-05, MAD: 5.59e-06
+Box test 0 vs 5: No difference
+Wilcoxon signed-rank test 0 vs 5: 0.575
+Sign test 0 vs 5: 0.897
+Sign test, probability that 5 < 0: 0.449
+Sign test, probability that 5 > 0: 0.552
+Sign test interpretation: 5 = 0
+Dependent t-test for paired samples 0 vs 5: 0.645
+0 vs 5 stats: mean: 1.94e-08, SD: 4.21e-05, median: 0.0, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 0 vs 6: No difference
+Wilcoxon signed-rank test 0 vs 6: 0.116
+Sign test 0 vs 6: 0.3
+Sign test, probability that 6 < 0: 0.15
+Sign test, probability that 6 > 0: 0.851
+Sign test interpretation: 6 = 0
+Dependent t-test for paired samples 0 vs 6: 0.79
+0 vs 6 stats: mean: 1.12e-08, SD: 4.18e-05, median: 1e-08, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 0 vs 7: No difference
+Wilcoxon signed-rank test 0 vs 7: 0.455
+Sign test 0 vs 7: 0.489
+Sign test, probability that 7 < 0: 0.244
+Sign test, probability that 7 > 0: 0.756
+Sign test interpretation: 7 = 0
+Dependent t-test for paired samples 0 vs 7: 0.566
+0 vs 7 stats: mean: 2.42e-08, SD: 4.22e-05, median: 9e-09, IQR: 1.12e-05, MAD: 5.59e-06
+Box test 0 vs 8: No difference
+Wilcoxon signed-rank test 0 vs 8: 0.426
+Sign test 0 vs 8: 0.501
+Sign test, probability that 8 < 0: 0.251
+Sign test, probability that 8 > 0: 0.75
+Sign test interpretation: 8 = 0
+Dependent t-test for paired samples 0 vs 8: 0.339
+0 vs 8 stats: mean: -4.03e-08, SD: 4.21e-05, median: 9e-09, IQR: 1.12e-05, MAD: 5.61e-06
+Box test 0 vs 9: No difference
+Wilcoxon signed-rank test 0 vs 9: 0.23
+Sign test 0 vs 9: 0.341
+Sign test, probability that 9 < 0: 0.17
+Sign test, probability that 9 > 0: 0.83
+Sign test interpretation: 9 = 0
+Dependent t-test for paired samples 0 vs 9: 0.751
+0 vs 9 stats: mean: -1.34e-08, SD: 4.21e-05, median: 1e-08, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 0 vs 10: No difference
+Wilcoxon signed-rank test 0 vs 10: 0.341
+Sign test 0 vs 10: 0.257
+Sign test, probability that 10 < 0: 0.129
+Sign test, probability that 10 > 0: 0.872
+Sign test interpretation: 10 = 0
+Dependent t-test for paired samples 0 vs 10: 0.953
+0 vs 10 stats: mean: -2.48e-09, SD: 4.21e-05, median: 1e-08, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 0 vs 11: No difference
+Wilcoxon signed-rank test 0 vs 11: 0.206
+Sign test 0 vs 11: 0.0512
+Sign test, probability that 11 < 0: 0.0256
+Sign test, probability that 11 > 0: 0.974
+Sign test interpretation: 11 = 0
+Dependent t-test for paired samples 0 vs 11: 0.509
+0 vs 11 stats: mean: 2.78e-08, SD: 4.22e-05, median: 1.9e-08, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 1 vs 2: No difference
+Wilcoxon signed-rank test 1 vs 2: 0.615
+Sign test 1 vs 2: 0.73
+Sign test, probability that 2 < 1: 0.636
+Sign test, probability that 2 > 1: 0.365
+Sign test interpretation: 2 = 1
+Dependent t-test for paired samples 1 vs 2: 0.972
+1 vs 2 stats: mean: -1.46e-09, SD: 4.23e-05, median: 0.0, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 1 vs 3: No difference
+Wilcoxon signed-rank test 1 vs 3: 0.615
+Sign test 1 vs 3: 0.197
+Sign test, probability that 3 < 1: 0.902
+Sign test, probability that 3 > 1: 0.0985
+Sign test interpretation: 3 = 1
+Dependent t-test for paired samples 1 vs 3: 0.499
+1 vs 3 stats: mean: -2.87e-08, SD: 4.24e-05, median: -1e-08, IQR: 1.12e-05, MAD: 5.59e-06
+Box test 1 vs 4: No difference
+Wilcoxon signed-rank test 1 vs 4: 0.552
+Sign test 1 vs 4: 0.431
+Sign test, probability that 4 < 1: 0.215
+Sign test, probability that 4 > 1: 0.785
+Sign test interpretation: 4 = 1
+Dependent t-test for paired samples 1 vs 4: 0.902
+1 vs 4 stats: mean: 5.15e-09, SD: 4.2e-05, median: 1e-08, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 1 vs 5: No difference
+Wilcoxon signed-rank test 1 vs 5: 0.385
+Sign test 1 vs 5: 0.353
+Sign test, probability that 5 < 1: 0.824
+Sign test, probability that 5 > 1: 0.177
+Sign test interpretation: 5 = 1
+Dependent t-test for paired samples 1 vs 5: 0.6
+1 vs 5 stats: mean: -2.2e-08, SD: 4.2e-05, median: -1e-08, IQR: 1.12e-05, MAD: 5.59e-06
+Box test 1 vs 6: No difference
+Wilcoxon signed-rank test 1 vs 6: 0.756
+Sign test 1 vs 6: 0.78
+Sign test, probability that 6 < 1: 0.39
+Sign test, probability that 6 > 1: 0.611
+Sign test interpretation: 6 = 1
+Dependent t-test for paired samples 1 vs 6: 0.472
+1 vs 6 stats: mean: -3.03e-08, SD: 4.21e-05, median: 0.0, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 1 vs 7: No difference
+Wilcoxon signed-rank test 1 vs 7: 0.207
+Sign test 1 vs 7: 0.0676
+Sign test, probability that 7 < 1: 0.966
+Sign test, probability that 7 > 1: 0.0338
+Sign test interpretation: 7 = 1
+Dependent t-test for paired samples 1 vs 7: 0.684
+1 vs 7 stats: mean: -1.72e-08, SD: 4.23e-05, median: -2e-08, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 1 vs 8: No difference
+Wilcoxon signed-rank test 1 vs 8: 0.312
+Sign test 1 vs 8: 0.542
+Sign test, probability that 8 < 1: 0.729
+Sign test, probability that 8 > 1: 0.271
+Sign test interpretation: 8 = 1
+Dependent t-test for paired samples 1 vs 8: 0.0507
+1 vs 8 stats: mean: -8.17e-08, SD: 4.18e-05, median: -9e-09, IQR: 1.12e-05, MAD: 5.59e-06
+Box test 1 vs 9: No difference
+Wilcoxon signed-rank test 1 vs 9: 0.807
+Sign test 1 vs 9: 0.963
+Sign test, probability that 9 < 1: 0.482
+Sign test, probability that 9 > 1: 0.519
+Sign test interpretation: 9 = 1
+Dependent t-test for paired samples 1 vs 9: 0.196
+1 vs 9 stats: mean: -5.48e-08, SD: 4.24e-05, median: 0.0, IQR: 1.12e-05, MAD: 5.59e-06
+Box test 1 vs 10: No difference
+Wilcoxon signed-rank test 1 vs 10: 0.317
+Sign test 1 vs 10: 0.244
+Sign test, probability that 10 < 1: 0.878
+Sign test, probability that 10 > 1: 0.122
+Sign test interpretation: 10 = 1
+Dependent t-test for paired samples 1 vs 10: 0.298
+1 vs 10 stats: mean: -4.39e-08, SD: 4.22e-05, median: -1e-08, IQR: 1.12e-05, MAD: 5.61e-06
+Box test 1 vs 11: No difference
+Wilcoxon signed-rank test 1 vs 11: 0.408
+Sign test 1 vs 11: 0.447
+Sign test, probability that 11 < 1: 0.777
+Sign test, probability that 11 > 1: 0.223
+Sign test interpretation: 11 = 1
+Dependent t-test for paired samples 1 vs 11: 0.748
+1 vs 11 stats: mean: -1.36e-08, SD: 4.23e-05, median: -1e-08, IQR: 1.12e-05, MAD: 5.61e-06
+Box test 2 vs 3: No difference
+Wilcoxon signed-rank test 2 vs 3: 0.623
+Sign test 2 vs 3: 0.853
+Sign test, probability that 3 < 2: 0.427
+Sign test, probability that 3 > 2: 0.574
+Sign test interpretation: 3 = 2
+Dependent t-test for paired samples 2 vs 3: 0.521
+2 vs 3 stats: mean: -2.72e-08, SD: 4.24e-05, median: 0.0, IQR: 1.12e-05, MAD: 5.61e-06
+Box test 2 vs 4: No difference
+Wilcoxon signed-rank test 2 vs 4: 0.366
+Sign test 2 vs 4: 0.453
+Sign test, probability that 4 < 2: 0.227
+Sign test, probability that 4 > 2: 0.774
+Sign test interpretation: 4 = 2
+Dependent t-test for paired samples 2 vs 4: 0.875
+2 vs 4 stats: mean: 6.61e-09, SD: 4.21e-05, median: 1e-08, IQR: 1.12e-05, MAD: 5.59e-06
+Box test 2 vs 5: No difference
+Wilcoxon signed-rank test 2 vs 5: 0.579
+Sign test 2 vs 5: 0.583
+Sign test, probability that 5 < 2: 0.291
+Sign test, probability that 5 > 2: 0.709
+Sign test interpretation: 5 = 2
+Dependent t-test for paired samples 2 vs 5: 0.625
+2 vs 5 stats: mean: -2.06e-08, SD: 4.21e-05, median: 1e-09, IQR: 1.12e-05, MAD: 5.59e-06
+Box test 2 vs 6: No difference
+Wilcoxon signed-rank test 2 vs 6: 0.192
+Sign test 2 vs 6: 0.239
+Sign test, probability that 6 < 2: 0.119
+Sign test, probability that 6 > 2: 0.881
+Sign test interpretation: 6 = 2
+Dependent t-test for paired samples 2 vs 6: 0.495
+2 vs 6 stats: mean: -2.88e-08, SD: 4.22e-05, median: 1e-08, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 2 vs 7: No difference
+Wilcoxon signed-rank test 2 vs 7: 0.678
+Sign test 2 vs 7: 0.262
+Sign test, probability that 7 < 2: 0.869
+Sign test, probability that 7 > 2: 0.131
+Sign test interpretation: 7 = 2
+Dependent t-test for paired samples 2 vs 7: 0.71
+2 vs 7 stats: mean: -1.58e-08, SD: 4.24e-05, median: -1e-08, IQR: 1.12e-05, MAD: 5.58e-06
+Box test 2 vs 8: No difference
+Wilcoxon signed-rank test 2 vs 8: 0.867
+Sign test 2 vs 8: 0.551
+Sign test, probability that 8 < 2: 0.276
+Sign test, probability that 8 > 2: 0.725
+Sign test interpretation: 8 = 2
+Dependent t-test for paired samples 2 vs 8: 0.0566
+2 vs 8 stats: mean: -8.02e-08, SD: 4.21e-05, median: 9e-09, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 2 vs 9: No difference
+Wilcoxon signed-rank test 2 vs 9: 0.585
+Sign test 2 vs 9: 0.324
+Sign test, probability that 9 < 2: 0.839
+Sign test, probability that 9 > 2: 0.162
+Sign test interpretation: 9 = 2
+Dependent t-test for paired samples 2 vs 9: 0.206
+2 vs 9 stats: mean: -5.33e-08, SD: 4.22e-05, median: -1e-08, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 2 vs 10: No difference
+Wilcoxon signed-rank test 2 vs 10: 0.75
+Sign test 2 vs 10: 0.863
+Sign test, probability that 10 < 2: 0.569
+Sign test, probability that 10 > 2: 0.431
+Sign test interpretation: 10 = 2
+Dependent t-test for paired samples 2 vs 10: 0.314
+2 vs 10 stats: mean: -4.25e-08, SD: 4.22e-05, median: 0.0, IQR: 1.12e-05, MAD: 5.61e-06
+Box test 2 vs 11: No difference
+Wilcoxon signed-rank test 2 vs 11: 0.612
+Sign test 2 vs 11: 0.506
+Sign test, probability that 11 < 2: 0.253
+Sign test, probability that 11 > 2: 0.748
+Sign test interpretation: 11 = 2
+Dependent t-test for paired samples 2 vs 11: 0.775
+2 vs 11 stats: mean: -1.21e-08, SD: 4.25e-05, median: 9e-09, IQR: 1.12e-05, MAD: 5.59e-06
+Box test 3 vs 4: No difference
+Wilcoxon signed-rank test 3 vs 4: 0.63
+Sign test 3 vs 4: 0.898
+Sign test, probability that 4 < 3: 0.449
+Sign test, probability that 4 > 3: 0.552
+Sign test interpretation: 4 = 3
+Dependent t-test for paired samples 3 vs 4: 0.423
+3 vs 4 stats: mean: 3.38e-08, SD: 4.23e-05, median: 0.0, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 3 vs 5: No difference
+Wilcoxon signed-rank test 3 vs 5: 0.872
+Sign test 3 vs 5: 0.318
+Sign test, probability that 5 < 3: 0.159
+Sign test, probability that 5 > 3: 0.842
+Sign test interpretation: 5 = 3
+Dependent t-test for paired samples 3 vs 5: 0.874
+3 vs 5 stats: mean: 6.66e-09, SD: 4.2e-05, median: 1e-08, IQR: 1.12e-05, MAD: 5.61e-06
+Box test 3 vs 6: No difference
+Wilcoxon signed-rank test 3 vs 6: 0.298
+Sign test 3 vs 6: 0.247
+Sign test, probability that 6 < 3: 0.124
+Sign test, probability that 6 > 3: 0.877
+Sign test interpretation: 6 = 3
+Dependent t-test for paired samples 3 vs 6: 0.97
+3 vs 6 stats: mean: -1.59e-09, SD: 4.19e-05, median: 1e-08, IQR: 1.12e-05, MAD: 5.61e-06
+Box test 3 vs 7: No difference
+Wilcoxon signed-rank test 3 vs 7: 0.321
+Sign test 3 vs 7: 0.62
+Sign test, probability that 7 < 3: 0.691
+Sign test, probability that 7 > 3: 0.31
+Sign test interpretation: 7 = 3
+Dependent t-test for paired samples 3 vs 7: 0.785
+3 vs 7 stats: mean: 1.15e-08, SD: 4.2e-05, median: -1e-09, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 3 vs 8: No difference
+Wilcoxon signed-rank test 3 vs 8: 0.807
+Sign test 3 vs 8: 0.559
+Sign test, probability that 8 < 3: 0.28
+Sign test, probability that 8 > 3: 0.721
+Sign test interpretation: 8 = 3
+Dependent t-test for paired samples 3 vs 8: 0.206
+3 vs 8 stats: mean: -5.3e-08, SD: 4.19e-05, median: 1e-09, IQR: 1.12e-05, MAD: 5.59e-06
+Box test 3 vs 9: No difference
+Wilcoxon signed-rank test 3 vs 9: 0.791
+Sign test 3 vs 9: 0.547
+Sign test, probability that 9 < 3: 0.727
+Sign test, probability that 9 > 3: 0.274
+Sign test interpretation: 9 = 3
+Dependent t-test for paired samples 3 vs 9: 0.537
+3 vs 9 stats: mean: -2.61e-08, SD: 4.23e-05, median: -9e-09, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 3 vs 10: No difference
+Wilcoxon signed-rank test 3 vs 10: 0.826
+Sign test 3 vs 10: 0.573
+Sign test, probability that 10 < 3: 0.714
+Sign test, probability that 10 > 3: 0.286
+Sign test interpretation: 10 = 3
+Dependent t-test for paired samples 3 vs 10: 0.717
+3 vs 10 stats: mean: -1.52e-08, SD: 4.2e-05, median: -1e-09, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 3 vs 11: No difference
+Wilcoxon signed-rank test 3 vs 11: 0.593
+Sign test 3 vs 11: 0.729
+Sign test, probability that 11 < 3: 0.636
+Sign test, probability that 11 > 3: 0.364
+Sign test interpretation: 11 = 3
+Dependent t-test for paired samples 3 vs 11: 0.721
+3 vs 11 stats: mean: 1.51e-08, SD: 4.22e-05, median: 0.0, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 4 vs 5: No difference
+Wilcoxon signed-rank test 4 vs 5: 0.475
+Sign test 4 vs 5: 0.739
+Sign test, probability that 5 < 4: 0.631
+Sign test, probability that 5 > 4: 0.37
+Sign test interpretation: 5 = 4
+Dependent t-test for paired samples 4 vs 5: 0.516
+4 vs 5 stats: mean: -2.72e-08, SD: 4.19e-05, median: 0.0, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 4 vs 6: No difference
+Wilcoxon signed-rank test 4 vs 6: 0.998
+Sign test 4 vs 6: 0.806
+Sign test, probability that 6 < 4: 0.598
+Sign test, probability that 6 > 4: 0.403
+Sign test interpretation: 6 = 4
+Dependent t-test for paired samples 4 vs 6: 0.4
+4 vs 6 stats: mean: -3.54e-08, SD: 4.21e-05, median: 0.0, IQR: 1.12e-05, MAD: 5.59e-06
+Box test 4 vs 7: No difference
+Wilcoxon signed-rank test 4 vs 7: 0.374
+Sign test 4 vs 7: 0.6
+Sign test, probability that 7 < 4: 0.701
+Sign test, probability that 7 > 4: 0.3
+Sign test interpretation: 7 = 4
+Dependent t-test for paired samples 4 vs 7: 0.596
+4 vs 7 stats: mean: -2.24e-08, SD: 4.22e-05, median: -1e-09, IQR: 1.12e-05, MAD: 5.59e-06
+Box test 4 vs 8: No difference
+Wilcoxon signed-rank test 4 vs 8: 0.102
+Sign test 4 vs 8: 0.124
+Sign test, probability that 8 < 4: 0.938
+Sign test, probability that 8 > 4: 0.0619
+Sign test interpretation: 8 = 4
+Dependent t-test for paired samples 4 vs 8: 0.0382
+4 vs 8 stats: mean: -8.69e-08, SD: 4.19e-05, median: -1.1e-08, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 4 vs 9: No difference
+Wilcoxon signed-rank test 4 vs 9: 0.333
+Sign test 4 vs 9: 0.946
+Sign test, probability that 9 < 4: 0.528
+Sign test, probability that 9 > 4: 0.473
+Sign test interpretation: 9 = 4
+Dependent t-test for paired samples 4 vs 9: 0.154
+4 vs 9 stats: mean: -5.99e-08, SD: 4.2e-05, median: 0.0, IQR: 1.12e-05, MAD: 5.61e-06
+Box test 4 vs 10: No difference
+Wilcoxon signed-rank test 4 vs 10: 0.222
+Sign test 4 vs 10: 0.164
+Sign test, probability that 10 < 4: 0.918
+Sign test, probability that 10 > 4: 0.0821
+Sign test interpretation: 10 = 4
+Dependent t-test for paired samples 4 vs 10: 0.246
+4 vs 10 stats: mean: -4.91e-08, SD: 4.23e-05, median: -1e-08, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 4 vs 11: No difference
+Wilcoxon signed-rank test 4 vs 11: 0.305
+Sign test 4 vs 11: 0.482
+Sign test, probability that 11 < 4: 0.76
+Sign test, probability that 11 > 4: 0.241
+Sign test interpretation: 11 = 4
+Dependent t-test for paired samples 4 vs 11: 0.655
+4 vs 11 stats: mean: -1.87e-08, SD: 4.19e-05, median: -9e-09, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 5 vs 6: No difference
+Wilcoxon signed-rank test 5 vs 6: 0.286
+Sign test 5 vs 6: 0.779
+Sign test, probability that 6 < 5: 0.389
+Sign test, probability that 6 > 5: 0.611
+Sign test interpretation: 6 = 5
+Dependent t-test for paired samples 5 vs 6: 0.844
+5 vs 6 stats: mean: -8.24e-09, SD: 4.19e-05, median: 0.0, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 5 vs 7: No difference
+Wilcoxon signed-rank test 5 vs 7: 0.989
+Sign test 5 vs 7: 0.26
+Sign test, probability that 7 < 5: 0.13
+Sign test, probability that 7 > 5: 0.87
+Sign test interpretation: 7 = 5
+Dependent t-test for paired samples 5 vs 7: 0.908
+5 vs 7 stats: mean: 4.82e-09, SD: 4.18e-05, median: 1e-08, IQR: 1.11e-05, MAD: 5.57e-06
+Box test 5 vs 8: No difference
+Wilcoxon signed-rank test 5 vs 8: 0.853
+Sign test 5 vs 8: 0.59
+Sign test, probability that 8 < 5: 0.295
+Sign test, probability that 8 > 5: 0.706
+Sign test interpretation: 8 = 5
+Dependent t-test for paired samples 5 vs 8: 0.153
+5 vs 8 stats: mean: -5.97e-08, SD: 4.18e-05, median: 1e-09, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 5 vs 9: No difference
+Wilcoxon signed-rank test 5 vs 9: 0.607
+Sign test 5 vs 9: 0.549
+Sign test, probability that 9 < 5: 0.726
+Sign test, probability that 9 > 5: 0.275
+Sign test interpretation: 9 = 5
+Dependent t-test for paired samples 5 vs 9: 0.436
+5 vs 9 stats: mean: -3.28e-08, SD: 4.2e-05, median: -9e-09, IQR: 1.12e-05, MAD: 5.59e-06
+Box test 5 vs 10: No difference
+Wilcoxon signed-rank test 5 vs 10: 0.791
+Sign test 5 vs 10: 0.793
+Sign test, probability that 10 < 5: 0.605
+Sign test, probability that 10 > 5: 0.396
+Sign test interpretation: 10 = 5
+Dependent t-test for paired samples 5 vs 10: 0.604
+5 vs 10 stats: mean: -2.19e-08, SD: 4.22e-05, median: 0.0, IQR: 1.12e-05, MAD: 5.61e-06
+Box test 5 vs 11: No difference
+Wilcoxon signed-rank test 5 vs 11: 0.877
+Sign test 5 vs 11: 0.941
+Sign test, probability that 11 < 5: 0.471
+Sign test, probability that 11 > 5: 0.53
+Sign test interpretation: 11 = 5
+Dependent t-test for paired samples 5 vs 11: 0.841
+5 vs 11 stats: mean: 8.44e-09, SD: 4.21e-05, median: 0.0, IQR: 1.12e-05, MAD: 5.61e-06
+Box test 6 vs 7: No difference
+Wilcoxon signed-rank test 6 vs 7: 0.199
+Sign test 6 vs 7: 0.468
+Sign test, probability that 7 < 6: 0.767
+Sign test, probability that 7 > 6: 0.234
+Sign test interpretation: 7 = 6
+Dependent t-test for paired samples 6 vs 7: 0.756
+6 vs 7 stats: mean: 1.31e-08, SD: 4.2e-05, median: -9e-09, IQR: 1.12e-05, MAD: 5.58e-06
+Box test 6 vs 8: No difference
+Wilcoxon signed-rank test 6 vs 8: 0.248
+Sign test 6 vs 8: 0.611
+Sign test, probability that 8 < 6: 0.695
+Sign test, probability that 8 > 6: 0.306
+Sign test interpretation: 8 = 6
+Dependent t-test for paired samples 6 vs 8: 0.217
+6 vs 8 stats: mean: -5.14e-08, SD: 4.17e-05, median: -1e-09, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 6 vs 9: No difference
+Wilcoxon signed-rank test 6 vs 9: 0.266
+Sign test 6 vs 9: 0.611
+Sign test, probability that 9 < 6: 0.695
+Sign test, probability that 9 > 6: 0.305
+Sign test interpretation: 9 = 6
+Dependent t-test for paired samples 6 vs 9: 0.561
+6 vs 9 stats: mean: -2.45e-08, SD: 4.21e-05, median: -1e-09, IQR: 1.12e-05, MAD: 5.61e-06
+Box test 6 vs 10: No difference
+Wilcoxon signed-rank test 6 vs 10: 0.285
+Sign test 6 vs 10: 0.87
+Sign test, probability that 10 < 6: 0.566
+Sign test, probability that 10 > 6: 0.435
+Sign test interpretation: 10 = 6
+Dependent t-test for paired samples 6 vs 10: 0.745
+6 vs 10 stats: mean: -1.36e-08, SD: 4.2e-05, median: 0.0, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 6 vs 11: No difference
+Wilcoxon signed-rank test 6 vs 11: 0.996
+Sign test 6 vs 11: 0.571
+Sign test, probability that 11 < 6: 0.286
+Sign test, probability that 11 > 6: 0.715
+Sign test interpretation: 11 = 6
+Dependent t-test for paired samples 6 vs 11: 0.69
+6 vs 11 stats: mean: 1.67e-08, SD: 4.19e-05, median: 1e-09, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 7 vs 8: No difference
+Wilcoxon signed-rank test 7 vs 8: 0.853
+Sign test 7 vs 8: 0.355
+Sign test, probability that 8 < 7: 0.177
+Sign test, probability that 8 > 7: 0.823
+Sign test interpretation: 8 = 7
+Dependent t-test for paired samples 7 vs 8: 0.125
+7 vs 8 stats: mean: -6.45e-08, SD: 4.2e-05, median: 1e-08, IQR: 1.12e-05, MAD: 5.59e-06
+Box test 7 vs 9: No difference
+Wilcoxon signed-rank test 7 vs 9: 0.883
+Sign test 7 vs 9: 0.997
+Sign test, probability that 9 < 7: 0.502
+Sign test, probability that 9 > 7: 0.498
+Sign test interpretation: 9 = 7
+Dependent t-test for paired samples 7 vs 9: 0.373
+7 vs 9 stats: mean: -3.76e-08, SD: 4.22e-05, median: 0.0, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 7 vs 10: No difference
+Wilcoxon signed-rank test 7 vs 10: 0.674
+Sign test 7 vs 10: 0.5
+Sign test, probability that 10 < 7: 0.25
+Sign test, probability that 10 > 7: 0.751
+Sign test interpretation: 10 = 7
+Dependent t-test for paired samples 7 vs 10: 0.528
+7 vs 10 stats: mean: -2.67e-08, SD: 4.23e-05, median: 9e-09, IQR: 1.12e-05, MAD: 5.59e-06
+Box test 7 vs 11: No difference
+Wilcoxon signed-rank test 7 vs 11: 0.622
+Sign test 7 vs 11: 0.821
+Sign test, probability that 11 < 7: 0.411
+Sign test, probability that 11 > 7: 0.59
+Sign test interpretation: 11 = 7
+Dependent t-test for paired samples 7 vs 11: 0.931
+7 vs 11 stats: mean: 3.63e-09, SD: 4.22e-05, median: 0.0, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 8 vs 9: No difference
+Wilcoxon signed-rank test 8 vs 9: 0.7
+Sign test 8 vs 9: 0.462
+Sign test, probability that 9 < 8: 0.231
+Sign test, probability that 9 > 8: 0.77
+Sign test interpretation: 9 = 8
+Dependent t-test for paired samples 8 vs 9: 0.519
+8 vs 9 stats: mean: 2.69e-08, SD: 4.17e-05, median: 9e-09, IQR: 1.12e-05, MAD: 5.62e-06
+Box test 8 vs 10: No difference
+Wilcoxon signed-rank test 8 vs 10: 0.836
+Sign test 8 vs 10: 0.56
+Sign test, probability that 10 < 8: 0.72
+Sign test, probability that 10 > 8: 0.28
+Sign test interpretation: 10 = 8
+Dependent t-test for paired samples 8 vs 10: 0.366
+8 vs 10 stats: mean: 3.78e-08, SD: 4.18e-05, median: -9e-09, IQR: 1.12e-05, MAD: 5.61e-06
+Box test 8 vs 11: No difference
+Wilcoxon signed-rank test 8 vs 11: 0.858
+Sign test 8 vs 11: 0.56
+Sign test, probability that 11 < 8: 0.28
+Sign test, probability that 11 > 8: 0.72
+Sign test interpretation: 11 = 8
+Dependent t-test for paired samples 8 vs 11: 0.104
+8 vs 11 stats: mean: 6.81e-08, SD: 4.19e-05, median: 1e-09, IQR: 1.12e-05, MAD: 5.59e-06
+Box test 9 vs 10: No difference
+Wilcoxon signed-rank test 9 vs 10: 0.851
+Sign test 9 vs 10: 0.271
+Sign test, probability that 10 < 9: 0.865
+Sign test, probability that 10 > 9: 0.136
+Sign test interpretation: 10 = 9
+Dependent t-test for paired samples 9 vs 10: 0.796
+9 vs 10 stats: mean: 1.09e-08, SD: 4.21e-05, median: -1e-08, IQR: 1.12e-05, MAD: 5.59e-06
+Box test 9 vs 11: No difference
+Wilcoxon signed-rank test 9 vs 11: 0.51
+Sign test 9 vs 11: 0.748
+Sign test, probability that 11 < 9: 0.374
+Sign test, probability that 11 > 9: 0.627
+Sign test interpretation: 11 = 9
+Dependent t-test for paired samples 9 vs 11: 0.327
+9 vs 11 stats: mean: 4.12e-08, SD: 4.21e-05, median: 0.0, IQR: 1.12e-05, MAD: 5.6e-06
+Box test 10 vs 11: No difference
+Wilcoxon signed-rank test 10 vs 11: 0.597
+Sign test 10 vs 11: 0.408
+Sign test, probability that 11 < 10: 0.204
+Sign test, probability that 11 > 10: 0.796
+Sign test interpretation: 11 = 10
+Dependent t-test for paired samples 10 vs 11: 0.47
+10 vs 11 stats: mean: 3.03e-08, SD: 4.2e-05, median: 1e-08, IQR: 1.12e-05, MAD: 5.61e-06
+[i] Calculation of individual results done in 7.09s
+[i] Calculating confidence intervals of central tendencies
+Done:   0.00%, elapsed:  2.00s, speed: 0.00 bootstraps/s, avg speed: 0.00 bootstraps/s,Done:   0.00%, elapsed:  4.00s, speed: 0.00 bootstraps/s, avg speed: 0.00 bootstraps/s,Done:   0.00%, elapsed:  6.01s, speed: 0.00 bootstraps/s, avg speed: 0.00 bootstraps/s,Done:   0.00%, elapsed:  8.01s, speed: 0.00 bootstraps/s, avg speed: 0.00 bootstraps/s,Done:   0.00%, elapsed: 10.01s, speed: 0.00 bootstraps/s, avg speed: 0.00 bootstraps/s,Done:   0.00%, elapsed: 12.01s, speed: 0.00 bootstraps/s, avg speed: 0.00 bootstraps/s,Done:   0.00%, elapsed: 14.01s, speed: 0.00 bootstraps/s, avg speed: 0.00 bootstraps/s,Done:   0.00%, elapsed: 16.01s, speed: 0.00 bootstraps/s, avg speed: 0.00 bootstraps/s,Done:  23.92%, elapsed: 18.01s, speed: 597.35 bootstraps/s, avg speed: 66.39 bootstrapsDone:  24.96%, elapsed: 20.02s, speed: 25.97 bootstraps/s, avg speed: 62.35 bootstraps/Done:  24.96%, elapsed: 22.02s, speed: 0.00 bootstraps/s, avg speed: 56.68 bootstraps/sDone:  24.96%, elapsed: 24.02s, speed: 0.00 bootstraps/s, avg speed: 51.96 bootstraps/sDone:  24.96%, elapsed: 26.02s, speed: 0.00 bootstraps/s, avg speed: 47.96 bootstraps/sDone:  24.96%, elapsed: 28.02s, speed: 0.00 bootstraps/s, avg speed: 44.53 bootstraps/sDone:  24.96%, elapsed: 30.03s, speed: 0.00 bootstraps/s, avg speed: 41.56 bootstraps/sDone:  24.96%, elapsed: 32.03s, speed: 0.00 bootstraps/s, avg speed: 38.97 bootstraps/sDone:  39.52%, elapsed: 34.03s, speed: 363.86 bootstraps/s, avg speed: 58.07 bootstrapsDone:  49.92%, elapsed: 36.03s, speed: 259.83 bootstraps/s, avg speed: 69.28 bootstrapsDone:  49.92%, elapsed: 38.03s, speed: 0.00 bootstraps/s, avg speed: 65.63 bootstraps/sDone:  49.92%, elapsed: 40.03s, speed: 0.00 bootstraps/s, avg speed: 62.35 bootstraps/sDone:  49.92%, elapsed: 42.04s, speed: 0.00 bootstraps/s, avg speed: 59.38 bootstraps/sDone:  49.92%, elapsed: 44.04s, speed: 0.00 bootstraps/s, avg speed: 56.68 bootstraps/sDone:  49.92%, elapsed: 46.04s, speed: 0.00 bootstraps/s, avg speed: 54.22 bootstraps/sDone:  49.92%, elapsed: 48.04s, speed: 0.00 bootstraps/s, avg speed: 51.96 bootstraps/sDone:  53.04%, elapsed: 50.04s, speed: 77.97 bootstraps/s, avg speed: 53.00 bootstraps/Done:  73.84%, elapsed: 52.04s, speed: 519.65 bootstraps/s, avg speed: 70.94 bootstrapsDone:  74.88%, elapsed: 54.04s, speed: 25.99 bootstraps/s, avg speed: 69.28 bootstraps/Done:  74.88%, elapsed: 56.05s, speed: 0.00 bootstraps/s, avg speed: 66.80 bootstraps/sDone:  74.88%, elapsed: 58.05s, speed: 0.00 bootstraps/s, avg speed: 64.50 bootstraps/sDone:  74.88%, elapsed:  1m  0.05s, speed: 0.00 bootstraps/s, avg speed: 62.35 bootstraDone:  74.88%, elapsed:  1m  2.05s, speed: 0.00 bootstraps/s, avg speed: 60.34 bootstraDone:  74.88%, elapsed:  1m  4.05s, speed: 0.00 bootstraps/s, avg speed: 58.45 bootstraDone:  74.88%, elapsed:  1m  6.05s, speed: 0.00 bootstraps/s, avg speed: 56.68 bootstraDone: 100.00%, elapsed:  1m  7.76s, speed: 735.46 bootstraps/s, avg speed: 73.79 bootstraps/s, remaining:  0.00s, ETA: 11:35:20 26-04-2026    
+[i] Confidence intervals of central tendencies done in 67.8s
+[i] Start graphing the worst pair data
+[i] Worst pair data graphed in 3.48s
+Sign test mean p-value: 0.5384, median p-value: 0.5481, min p-value: 0.05125
+Friedman test (chisquare approximation) for all samples
+p-value: 0.9360727430202178
+Worst pair: 1(no_header_with_payload_48), 7(valid_192)
+Mean of differences: -1.72241e-08s, 95% CI: -9.37748e-08s, 6.151841e-08s (±7.765e-08s)
+Median of differences: -2.00000e-08s, 95% CI: -3.10000e-08s, 0.000000e+00s (±1.550e-08s)
+Trimmed mean (5%) of differences: -1.22764e-08s, 95% CI: -3.47301e-08s, 1.043291e-08s (±2.258e-08s)
+Trimmed mean (25%) of differences: -1.33828e-08s, 95% CI: -3.04868e-08s, 3.468312e-09s (±1.698e-08s)
+Trimmed mean (45%) of differences: -1.53542e-08s, 95% CI: -3.15971e-08s, -4.635600e-10s (±1.557e-08s)
+Trimean of differences: -1.47500e-08s, 95% CI: -3.24375e-08s, 7.500000e-09s (±1.997e-08s)
+Layperson explanation: Large confidence intervals detected, collecting more data necessary. Side channel leakage smaller than 1.550e-08s is possible
+For detailed report see rsa2048_repeat/report.csv
+Analysis return value: 0
