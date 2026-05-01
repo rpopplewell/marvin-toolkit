@@ -14,9 +14,5 @@ rsa4096_repeat
 rsa4096_ciphertexts
 rsa4096_oaep_repeat
 example/openssl/time_decrypt_legacy
-rsa2048_repeat_with_slice/*.bin
-rsa2048_repeat_with_slice/*.csv
-rsa2048_repeat_without_slice/*.bin
-rsa2048_repeat_without_slice/*.csv
-rsa2048_repeat_with_slice_ct/*.bin
-rsa2048_repeat_with_slice_ct/*.csv
+*.bin
+*.csv
